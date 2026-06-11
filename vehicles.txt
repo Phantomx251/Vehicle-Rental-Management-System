@@ -1,0 +1,6 @@
+Car|CAR1|Toyota|Corolla|350|false|4|5
+Motorcycle|MOTO1|Yamaha|MT-07|200|true|600
+Car|CAR2|Toyota|Carolla|400|false|4|5
+Motorcycle|MOTO2|Yamaha|MT-07|400|true|800
+Car|CAR3|Toyota|Yamaha|400|false|4|5
+Motorcycle|MOTO3|Kawasaki|Ninja ZX-10R|600|true|300
